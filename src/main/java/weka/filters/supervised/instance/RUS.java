@@ -60,8 +60,8 @@ import java.util.Vector;
  * 
  * <!-- options-end -->
  * 
- * @author Sergio García Charameli
- * @author Daniel Rodríguez - University of Alcalá
+ * @author Sergio Garcia Charameli
+ * @author Daniel Rodriguez
  * @version $Revision: 1 $
  */
 
